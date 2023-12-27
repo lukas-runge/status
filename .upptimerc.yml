@@ -19,7 +19,7 @@ status-website:
   introMessage: This is the status of services hosted by [@lukas-runge](https://github.com/lukas-runge).
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
