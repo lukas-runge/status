@@ -4,7 +4,7 @@
     "url": "https://add.fd4.me",
     "icon": "https://icons.duckduckgo.com/ip3/add.fd4.me.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 469,
     "timeYear": 491,
     "dailyMinutesDown": {
+      "2024-05-30": 0,
       "2023-12-27": 11
     }
   }
