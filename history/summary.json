@@ -4,17 +4,17 @@
     "url": "https://add.fd4.me",
     "icon": "https://icons.duckduckgo.com/ip3/add.fd4.me.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.41%",
-    "time": 523,
-    "timeDay": 499,
-    "timeWeek": 444,
-    "timeMonth": 527,
-    "timeYear": 508,
+    "time": 524,
+    "timeDay": 708,
+    "timeWeek": 503,
+    "timeMonth": 543,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-10-09": 994,
       "2025-10-15": 169,
@@ -23,7 +23,8 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-11-13": 11
+      "2025-11-13": 11,
+      "2026-09-28": 0
     }
   }
 ]
