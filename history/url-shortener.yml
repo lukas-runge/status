@@ -1,7 +1,7 @@
-url: https://add.fd4.me
-status: down
+url: https://fd4.me/rest/health
+status: up
 code: 200
-responseTime: 1413
-lastUpdated: 2026-09-28T23:17:39.904Z
+responseTime: 425
+lastUpdated: 2026-09-29T00:11:36.743Z
 startTime: 2023-12-27T13:40:05.476Z
 generator: Upptime <https://github.com/upptime/upptime>
