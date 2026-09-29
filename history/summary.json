@@ -1,20 +1,20 @@
 [
   {
     "name": "URL Shortener",
-    "url": "https://add.fd4.me",
-    "icon": "https://icons.duckduckgo.com/ip3/add.fd4.me.ico",
+    "url": "https://fd4.me/rest/health",
+    "icon": "https://icons.duckduckgo.com/ip3/fd4.me.ico",
     "slug": "url-shortener",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.41%",
-    "time": 524,
-    "timeDay": 708,
-    "timeWeek": 503,
-    "timeMonth": 543,
-    "timeYear": 509,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "53.44%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.28%",
+    "time": 526,
+    "timeDay": 918,
+    "timeWeek": 595,
+    "timeMonth": 567,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2025-10-09": 994,
       "2025-10-15": 169,
@@ -24,7 +24,8 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-11-13": 11,
-      "2026-09-28": 0
+      "2026-09-29": 12,
+      "2026-09-28": 659
     }
   }
 ]
